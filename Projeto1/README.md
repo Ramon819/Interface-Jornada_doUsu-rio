@@ -17,13 +17,14 @@ Criar uma interface intuitiva e funcional que permita ao estudante:
 * Gerenciar atividades e prazos
 * Acessar informações importantes da vida acadêmica
 
-Aplicativos como o Duda mostram que integrar tudo em um só lugar ajuda o aluno a se manter organizado e no caminho certo durante sua jornada ([App Store][1]).
+Aplicativos como o Duda mostram que integrar tudo em um só lugar ajuda o aluno a se manter organizado e no caminho certo durante sua jornada:
+👉 [Ver app Duda na App Store](https://apps.apple.com/sa/app/duda/id6451416655?utm_source=chatgpt.com)
 
 ---
 
 ## 🎨 Protótipo no Figma
 
-👉 [Acessar protótipo](https://www.figma.com/proto/USQlFbxZEjr2nnKjfezGQ8/trabai?node-id=1-2&starting-point-node-id=63%3A2&t=FBzx6WhXsSWD92s0-1)
+🔗 **[Acessar protótipo no Figma](https://www.figma.com/proto/USQlFbxZEjr2nnKjfezGQ8/trabai?node-id=1-2&starting-point-node-id=63%3A2&t=FBzx6WhXsSWD92s0-1)**
 
 O protótipo foi desenvolvido no Figma, permitindo visualizar a navegação, layout e experiência do usuário.
 
@@ -92,17 +93,7 @@ O projeto seguiu etapas de desenvolvimento como:
 Sinta-se à vontade para contribuir com melhorias:
 
 1. Faça um fork
-2. Crie uma branch
-3. Envie um Pull Request
+2. Crie uma branch (`feature/minha-feature`)
+3. Commit suas alterações
+4. Abra um Pull Request
 
----
-
-## 📄 Licença
-
-Este projeto é apenas educacional e não possui fins comerciais.
-
----
-
-💡 *"A tecnologia na educação não substitui o estudante, mas potencializa sua jornada."*
-
-[1]: https://apps.apple.com/sa/app/duda/id6451416655?utm_source=chatgpt.com "‎Duda App - App Store"
